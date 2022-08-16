@@ -12,4 +12,4 @@ This project uses AssertJ for unit tests alongside JUnit 5
 
 https://joel-costigliola.github.io/assertj/assertj-core-quick-start.html
 
-Any issues reach out to luke.meir@surgecrosssoftware.com
+Any issues reach out to luke.meir@surgecrosssoftware.co.uk
